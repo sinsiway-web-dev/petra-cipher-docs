@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpetra_cipher=self.webpackChunkpetra_cipher||[]).push([[5720],{5963:e=>{e.exports=JSON.parse('{"permalink":"/sinsiway-web-dev.github.io/petra-cipher-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
